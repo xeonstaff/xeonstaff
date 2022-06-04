@@ -4,7 +4,7 @@
 **xeonstaff/xeonstaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get<!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
-![Connect on Twitter](https://img.shields.io/twitter/follow/xeonstaff?logo=Twitter&color=1DA1F2&style=for-the-badge)
+![Connect on Twitter](https://img.shields.io/twitter/follow/machinedelf?logo=Twitter&color=1DA1F2&style=for-the-badge)
 
 ### Hello and Welcome 👋, I'm Joel Mounts
 
