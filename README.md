@@ -1,38 +1,33 @@
-<!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY38RvRIxYODO4penyxUwTg?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge)
-![Connect on Twitter](https://img.shields.io/twitter/follow/yesdavidgray?logo=Twitter&color=1DA1F2&style=for-the-badge)
+### Hi there 👋
 
-### Hello and Welcome 👋, I'm Dave Gray
+<!--
+**xeonstaff/xeonstaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### I'm a Father, Developer, Instructor, Mentor, and Content Creator
-- 👨🏽‍🎓 I enjoy teaching coding skills and helping students
-- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/c/davegrayteachescode)
-- 📚 I'm constantly learning new skills and _striving for progress_
-- 🏆 Goal: Be the person I needed when I was younger
-- ⚡ Motto: _Keep striving for progress, not perfection_
+Here are some ideas to get<!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
+![Connect on Twitter](https://img.shields.io/twitter/follow/xeonstaff?logo=Twitter&color=1DA1F2&style=for-the-badge)
 
-### 📺 Latest Youtube Videos
-<!-- YOUTUBE:START -->
-- [React Query Tutorial for Beginners vs Redux, Axios with CRUD Example](https://www.youtube.com/watch?v=lLWfZL-Y8lM)
-- [CSS Responsive Card Design | Mini-Project Tutorial for Beginners](https://www.youtube.com/watch?v=mpYtrgB3b6o)
-- [React Redux Login Authentication Flow with JWT Access, Refresh Tokens, Cookies](https://www.youtube.com/watch?v=-JJFQ9bkUbo)
-- [CSS Media Queries &amp; Responsive Web Design tutorial for Beginners](https://www.youtube.com/watch?v=69IbzTWg5PM)
-- [React 18 New Features, Changes &amp; v18 Upgrade Guide](https://www.youtube.com/watch?v=N41B_SVdzwg)
-<!-- YOUTUBE:END -->
+### Hello and Welcome 👋, I'm Joel Mounts
 
-### ✍️ Latest Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [My Recent Search History](https://yesdavidgray.com/my-recent-search-history)
-- [The More We Learn, The Less We Know](https://yesdavidgray.com/the-more-we-learn-the-less-we-know)
-- [Don&#39;t Do This: Tutorials for Beginners](https://yesdavidgray.com/dont-do-this-tutorials-for-beginners)
-- [Goals vs the Here and Now](https://yesdavidgray.com/goals-vs-the-here-and-now)
-- [The Hardest Part is Getting Started](https://yesdavidgray.com/the-hardest-part-is-getting-started)
-<!-- BLOG-POST-LIST:END -->
+### I'm a Web Developer, Content Creator, and Teacher
+- 📚 I've been coding since 2021 and am always learning new things
+- 🀄 I spent 8 years in Asia and speak (a little) Chinese!
+- 🐆 I run Debatetrack, the largest PF Debate brand (https://www.youtube.com/debatetrack)
+- 🌎 I'm a serial hobbyist: violin, traveling, chess, NFTs, lifting...
+- 🔎 I'm looking for a job! Get in touch to talk: joelmounts@gmail.com
+
+
+### ⚛️ Latest React Projects
+<!-- React:START -->
+- [My Portfolio: It's a portfolio...for Joel!](https://joel--portfolio.herokuapp.com/)
+- [Historical Events: Famous Historical Events, using Wikipedia Info](https://births-and-deaths.herokuapp.com/)
+- [Pet Owners: Dummy Info for Cats & their Owners](http://cat-pix.herokuapp.com/)
+- [React News: Searchable News Feed with Material UI](https://newsfeed-react.herokuapp.com/)
+- [IP Dashboard: Lots of Information from just your IP (run locally)](https://github.com/xeonstaff/ip-dashboard)
+<!-- React:END -->
 
 ### 📬 Connect with me:
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dave Gray | Youtube" height="30" width="40" />][youtube]
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dave Gray | Twitter" height="30" width="40" />][twitter]
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave Gray | LinkedIn" height="30" width="40" />][linkedin]
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Joel Mounts | Twitter" height="30" width="40" />][twitter]
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joel Mounts | LinkedIn" height="30" width="40" />][linkedin]
 
 <br />
 <br />
@@ -40,33 +35,13 @@
 ### 💻 Programming Languages:
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 [<img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
-[<img align="left" target="_blank" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][youtube]
 [<img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
 [<img align="left" target="_blank" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
-[<img align="left" target="_blank" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
-[<img align="left" target="_blank" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][youtube]
-[<img align="left" target="_blank" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][youtube]
 [<img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
-[<img align="left" target="_blank" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][youtube]
 [<img align="left" target="_blank" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 [<img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
 
 <br />
 <br />
 
-### 🎓 Example Courses and Tutorials: 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=EfAl9bwzVZk
-" target="_blank"><img src="http://img.youtube.com/vi/EfAl9bwzVZk/0.jpg" 
-alt="JavaScript Full Course" width="240" height="180" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=RVFAyFWO4go
-" target="_blank"><img src="http://img.youtube.com/vi/RVFAyFWO4go/0.jpg" 
-alt="React JS Full Course" width="240" height="180" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=1S8SBDhA7HA
-" target="_blank"><img src="http://img.youtube.com/vi/1S8SBDhA7HA/0.jpg" 
-alt="JavaScript Closures Tutorial" width="240" height="180" /></a>
-
-[jscourse]: https://youtu.be/EfAl9bwzVZk
-[reactcourse]: https://youtu.be/RVFAyFWO4go
-[twitter]: https://twitter.com/yesdavidgray
-[linkedin]: https://linkedin.com/in/davidagray
-[youtube]: https://www.youtube.com/c/davegrayteachescode
+-->
