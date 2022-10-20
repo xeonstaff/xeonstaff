@@ -8,11 +8,12 @@ Here are some ideas to get<!-- <img align="center" src="https://pbs.twimg.com/pr
 ### Hello and Welcome 👋, I'm Joel Mounts
 
 ### I'm a Web Developer, Content Creator, and Teacher
+- 📍 Currently: App Dev @ Stratacache // Vue, JS, TS, CSS
 - 📚 I've been coding since 2021 and am always learning new things
 - 🀄 I spent 8 years in Asia and speak (a little) Chinese!
 - 🐆 I run Debatetrack, the largest PF Debate brand (https://www.youtube.com/debatetrack)
-- 🌎 I'm a serial hobbyist: violin, traveling, chess, NFTs, lifting...
-- 🔎 I'm looking for a job! Get in touch to talk: joelmounts@gmail.com
+- 🌎 I'm a hobbyist: violin, chess, cooking, lifting, traveling...
+- 🔎 Get in touch! joelmounts@gmail.com
 
 
 ### ⚛️ Latest React Projects
