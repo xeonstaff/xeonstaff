@@ -16,7 +16,7 @@ Here are some ideas to get<!-- <img align="center" src="https://pbs.twimg.com/pr
 - 🔎 Get in touch! joelmounts@gmail.com
 
 
-### ⚛️ Latest React Projects
+### ⚛️ Latest Projects
 <!-- React:START -->
 - [My Portfolio: It's a portfolio...for Joel!](https://joel--portfolio.herokuapp.com/)
 - [Historical Events: Famous Historical Events, using Wikipedia Info](https://births-and-deaths.herokuapp.com/)
