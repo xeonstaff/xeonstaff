@@ -12,7 +12,7 @@ Here are some ideas to get<!-- <img align="center" src="https://pbs.twimg.com/pr
 - 📚 I've been coding since 2021 and am always learning new things
 - 🀄 I spent 8 years in Asia and speak (a little) Chinese!
 - 🐆 I run Debatetrack, the largest PF Debate brand (https://www.youtube.com/debatetrack)
-- 🌎 I'm a hobbyist: violin, chess, cooking, lifting, traveling...
+- 🌎 I'm a hobbyist: chess, cooking, lifting, traveling, gaming...
 - 🔎 Get in touch! joelmounts@gmail.com
 
 
@@ -29,12 +29,11 @@ Here are some ideas to get<!-- <img align="center" src="https://pbs.twimg.com/pr
 ### 📬 Connect with me:
 -  📧 Email: joelmounts@gmail.com
 -  🧑‍💼 Linkedin: Joel Mounts 
--  🐦 Twitter: @machinedelf
 
 <br />
 <br />
 
-### 💻 Programming Languages:
+### 💻 I'm good at:
 <img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
