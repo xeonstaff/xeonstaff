@@ -19,7 +19,7 @@ Here are some ideas to get<!-- <img align="center" src="https://pbs.twimg.com/pr
 ### ⚛️ Latest Projects
 <!-- React:START -->
 - [My Portfolio: It's a portfolio...for Joel!](https://joel--portfolio.herokuapp.com/)
-- [Temporary Friend: they're so nice...but so temporary...]([https://joel--portfolio.herokuapp.com/](https://tempfriend-ay7fpl9yv-xeonstaff.vercel.app/))
+- [Temporary Friend: they're so nice...but so temporary...](https://tempfriend-ay7fpl9yv-xeonstaff.vercel.app/)
 - [Historical Events: Famous Historical Events, using Wikipedia Info](https://react-births-and-deaths-o3xbe3rz1-xeonstaff.vercel.app/births)
 - [Pet Owners: Dummy Info for Cats & their Owners]([http://cat-pix.herokuapp.com/](https://react-cat-app-lilac.vercel.app/))
 - [Tinder for Cats: A Feline Tinder Clone](https://react-tinder-for-cats-7k6i87286-xeonstaff.vercel.app/)
