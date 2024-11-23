@@ -7,7 +7,7 @@ Here are some ideas to get<!-- <img align="center" src="https://pbs.twimg.com/pr
 ### Hello and Welcome 👋, I'm Joel Mounts
 
 ### I'm a Web Developer, Content Creator, and Teacher
-- 📍 Currently: App Dev @ Stratacache // Vue, JS, TS, CSS
+- 📍 Currently: Dev @ RoveIQ // Vue, Svelte, JS, TS, CSS, Golang
 - 📚 I've been coding since 2021 and am always learning new things
 - 🀄 I spent 8 years in Asia and speak (a little) Chinese!
 - 🐆 I run Debatetrack, the largest PF Debate brand (https://www.youtube.com/debatetrack)
